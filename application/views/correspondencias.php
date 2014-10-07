@@ -17,7 +17,7 @@
   </div>
  
   <div class="span4">
-  <h4>Destino</h4>
+  <h4>Destinooo</h4>
 	<input placeholder="Nombre" class="span6" type="text" id="FuncionariosNombreDestino" name="FuncionariosNombreDestino" />
 	<input placeholder="Documento" class="span6" type="text"  id="FuncionariosDocumentoDestino"  name="FuncionariosDocumentoDestino"  /> 
   </div>
