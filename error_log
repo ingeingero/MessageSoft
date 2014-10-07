@@ -1,0 +1,130 @@
+[26-Apr-2014 16:21:34 America/Bogota] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/ingeraco/public_html/Correspondencia/application/libraries/Grocery_CRUD.php:4725
+Stack trace:
+#0 /home/ingeraco/public_html/Correspondencia/application/libraries/Grocery_CRUD.php(4233): Grocery_CRUD->get_table()
+#1 /home/ingeraco/public_html/Correspondencia/application/libraries/Grocery_CRUD.php(4249): Grocery_CRUD->pre_render()
+#2 /home/ingeraco/public_html/Correspondencia/application/controllers/modules.php(126): Grocery_CRUD->render()
+#3 [internal function]: modules->correspondencia_recibida()
+#4 /home/ingeraco/public_html/Correspondencia/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/ingeraco/public_html/Correspondencia/index.php(202): require_once('/home/ingeraco/...')
+#6 {main}
+  thrown in /home/ingeraco/public_html/Correspondencia/application/libraries/Grocery_CRUD.php on line 4725
+[26-Apr-2014 16:21:38 America/Bogota] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/ingeraco/public_html/Correspondencia/application/libraries/Grocery_CRUD.php:4725
+Stack trace:
+#0 /home/ingeraco/public_html/Correspondencia/application/libraries/Grocery_CRUD.php(4233): Grocery_CRUD->get_table()
+#1 /home/ingeraco/public_html/Correspondencia/application/libraries/Grocery_CRUD.php(4249): Grocery_CRUD->pre_render()
+#2 /home/ingeraco/public_html/Correspondencia/application/controllers/modules.php(126): Grocery_CRUD->render()
+#3 [internal function]: modules->correspondencia_recibida()
+#4 /home/ingeraco/public_html/Correspondencia/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/ingeraco/public_html/Correspondencia/index.php(202): require_once('/home/ingeraco/...')
+#6 {main}
+  thrown in /home/ingeraco/public_html/Correspondencia/application/libraries/Grocery_CRUD.php on line 4725
+[26-Apr-2014 16:22:35 America/Bogota] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/ingeraco/public_html/Correspondencia/application/libraries/Grocery_CRUD.php:4725
+Stack trace:
+#0 /home/ingeraco/public_html/Correspondencia/application/libraries/Grocery_CRUD.php(4233): Grocery_CRUD->get_table()
+#1 /home/ingeraco/public_html/Correspondencia/application/libraries/Grocery_CRUD.php(4249): Grocery_CRUD->pre_render()
+#2 /home/ingeraco/public_html/Correspondencia/application/controllers/modules.php(126): Grocery_CRUD->render()
+#3 [internal function]: modules->correspondencia_recibida()
+#4 /home/ingeraco/public_html/Correspondencia/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/ingeraco/public_html/Correspondencia/index.php(202): require_once('/home/ingeraco/...')
+#6 {main}
+  thrown in /home/ingeraco/public_html/Correspondencia/application/libraries/Grocery_CRUD.php on line 4725
+[26-Apr-2014 16:22:37 America/Bogota] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/ingeraco/public_html/Correspondencia/application/libraries/Grocery_CRUD.php:4725
+Stack trace:
+#0 /home/ingeraco/public_html/Correspondencia/application/libraries/Grocery_CRUD.php(4233): Grocery_CRUD->get_table()
+#1 /home/ingeraco/public_html/Correspondencia/application/libraries/Grocery_CRUD.php(4249): Grocery_CRUD->pre_render()
+#2 /home/ingeraco/public_html/Correspondencia/application/controllers/modules.php(126): Grocery_CRUD->render()
+#3 [internal function]: modules->correspondencia_recibida()
+#4 /home/ingeraco/public_html/Correspondencia/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/ingeraco/public_html/Correspondencia/index.php(202): require_once('/home/ingeraco/...')
+#6 {main}
+  thrown in /home/ingeraco/public_html/Correspondencia/application/libraries/Grocery_CRUD.php on line 4725
+[26-Apr-2014 16:23:48 America/Bogota] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/ingeraco/public_html/Correspondencia/application/libraries/Grocery_CRUD.php:4725
+Stack trace:
+#0 /home/ingeraco/public_html/Correspondencia/application/libraries/Grocery_CRUD.php(4233): Grocery_CRUD->get_table()
+#1 /home/ingeraco/public_html/Correspondencia/application/libraries/Grocery_CRUD.php(4249): Grocery_CRUD->pre_render()
+#2 /home/ingeraco/public_html/Correspondencia/application/controllers/modules.php(126): Grocery_CRUD->render()
+#3 [internal function]: modules->correspondencia_recibida()
+#4 /home/ingeraco/public_html/Correspondencia/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/ingeraco/public_html/Correspondencia/index.php(202): require_once('/home/ingeraco/...')
+#6 {main}
+  thrown in /home/ingeraco/public_html/Correspondencia/application/libraries/Grocery_CRUD.php on line 4725
+[26-Apr-2014 16:24:09 America/Bogota] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/ingeraco/public_html/Correspondencia/application/libraries/Grocery_CRUD.php:4725
+Stack trace:
+#0 /home/ingeraco/public_html/Correspondencia/application/libraries/Grocery_CRUD.php(4233): Grocery_CRUD->get_table()
+#1 /home/ingeraco/public_html/Correspondencia/application/libraries/Grocery_CRUD.php(4249): Grocery_CRUD->pre_render()
+#2 /home/ingeraco/public_html/Correspondencia/application/controllers/modules.php(126): Grocery_CRUD->render()
+#3 [internal function]: modules->correspondencia_recibida()
+#4 /home/ingeraco/public_html/Correspondencia/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/ingeraco/public_html/Correspondencia/index.php(202): require_once('/home/ingeraco/...')
+#6 {main}
+  thrown in /home/ingeraco/public_html/Correspondencia/application/libraries/Grocery_CRUD.php on line 4725
+[27-Apr-2014 20:33:46 America/Bogota] PHP Fatal error:  Function name must be a string in /home/ingeraco/public_html/Correspondencia/application/controllers/modules.php on line 159
+[27-Apr-2014 20:33:48 America/Bogota] PHP Fatal error:  Function name must be a string in /home/ingeraco/public_html/Correspondencia/application/controllers/modules.php on line 159
+[27-Apr-2014 20:35:31 America/Bogota] PHP Fatal error:  Function name must be a string in /home/ingeraco/public_html/Correspondencia/application/controllers/modules.php on line 159
+[27-Apr-2014 20:39:45 America/Bogota] PHP Fatal error:  Function name must be a string in /home/ingeraco/public_html/Correspondencia/application/controllers/modules.php on line 159
+[27-Apr-2014 20:40:08 America/Bogota] PHP Fatal error:  Function name must be a string in /home/ingeraco/public_html/Correspondencia/application/controllers/modules.php on line 159
+[27-Apr-2014 20:54:10 America/Bogota] PHP Parse error:  syntax error, unexpected ''bas_tiposcorresponden' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/ingeraco/public_html/Correspondencia/application/controllers/modules.php on line 210
+[27-Apr-2014 22:22:47 America/Bogota] PHP Fatal error:  Call to undefined function redirect() in /home/ingeraco/public_html/Correspondencia/application/controllers/welcome.php on line 22
+[27-Apr-2014 22:22:56 America/Bogota] PHP Fatal error:  Call to undefined function redirect() in /home/ingeraco/public_html/Correspondencia/application/controllers/welcome.php on line 22
+[27-Apr-2014 22:23:39 America/Bogota] PHP Fatal error:  Call to undefined function redirect() in /home/ingeraco/public_html/Correspondencia/application/controllers/welcome.php on line 22
+[27-Apr-2014 22:24:39 America/Bogota] PHP Fatal error:  Call to undefined function redirect() in /home/ingeraco/public_html/Correspondencia/application/controllers/welcome.php on line 22
+[27-Apr-2014 22:25:43 America/Bogota] PHP Fatal error:  Call to undefined function redirect() in /home/ingeraco/public_html/Correspondencia/application/controllers/welcome.php on line 22
+[27-Apr-2014 22:29:33 America/Bogota] PHP Fatal error:  Call to undefined function base_url() in /home/ingeraco/public_html/Correspondencia/application/views/welcome_message.php on line 73
+[27-Apr-2014 22:29:35 America/Bogota] PHP Fatal error:  Call to undefined function base_url() in /home/ingeraco/public_html/Correspondencia/application/views/welcome_message.php on line 73
+[27-Apr-2014 22:29:39 America/Bogota] PHP Fatal error:  Call to undefined function base_url() in /home/ingeraco/public_html/Correspondencia/application/views/welcome_message.php on line 73
+[27-Apr-2014 22:30:19 America/Bogota] PHP Fatal error:  Call to undefined function base_url() in /home/ingeraco/public_html/Correspondencia/application/views/welcome_message.php on line 73
+[28-Apr-2014 17:54:49 America/Bogota] PHP Fatal error:  Call to undefined function EnviarMail() in /home/ingeraco/public_html/Correspondencia/application/controllers/modules.php on line 170
+[28-Apr-2014 17:54:52 America/Bogota] PHP Fatal error:  Call to undefined function EnviarMail() in /home/ingeraco/public_html/Correspondencia/application/controllers/modules.php on line 170
+[28-Apr-2014 17:55:23 America/Bogota] PHP Fatal error:  Call to undefined function EnviarMail() in /home/ingeraco/public_html/Correspondencia/application/controllers/modules.php on line 170
+[28-Apr-2014 19:35:07 America/Bogota] PHP Fatal error:  Cannot redeclare modules::tipos_correspondencia() in /home/ingeraco/public_html/Correspondencia/application/controllers/modules.php on line 244
+[28-Apr-2014 19:35:13 America/Bogota] PHP Fatal error:  Cannot redeclare modules::tipos_correspondencia() in /home/ingeraco/public_html/Correspondencia/application/controllers/modules.php on line 244
+[28-Apr-2014 19:35:28 America/Bogota] PHP Fatal error:  Cannot redeclare modules::tipos_correspondencia() in /home/ingeraco/public_html/Correspondencia/application/controllers/modules.php on line 244
+[28-Apr-2014 19:35:33 America/Bogota] PHP Fatal error:  Cannot redeclare modules::tipos_correspondencia() in /home/ingeraco/public_html/Correspondencia/application/controllers/modules.php on line 244
+[28-Apr-2014 19:35:40 America/Bogota] PHP Fatal error:  Cannot redeclare modules::tipos_correspondencia() in /home/ingeraco/public_html/Correspondencia/application/controllers/modules.php on line 244
+[28-Apr-2014 19:35:42 America/Bogota] PHP Fatal error:  Cannot redeclare modules::tipos_correspondencia() in /home/ingeraco/public_html/Correspondencia/application/controllers/modules.php on line 244
+[28-Apr-2014 19:35:44 America/Bogota] PHP Fatal error:  Cannot redeclare modules::tipos_correspondencia() in /home/ingeraco/public_html/Correspondencia/application/controllers/modules.php on line 244
+[28-Apr-2014 21:34:20 America/Bogota] PHP Fatal error:  Call to a member function getInformacionEmpleado() on a non-object in /home/ingeraco/public_html/Correspondencia/application/controllers/modules.php on line 134
+[01-May-2014 16:38:54 America/Bogota] PHP Fatal error:  Call to a member function set_userdata() on a non-object in /home/ingeraco/public_html/Messagesoft/application/controllers/usuarios.php on line 63
+[01-May-2014 16:39:12 America/Bogota] PHP Fatal error:  Call to a member function set_userdata() on a non-object in /home/ingeraco/public_html/Messagesoft/application/controllers/usuarios.php on line 63
+[01-May-2014 16:45:21 America/Bogota] PHP Fatal error:  Call to a member function set_userdata() on a non-object in /home/ingeraco/public_html/Messagesoft/application/controllers/usuarios.php on line 64
+[01-May-2014 17:44:35 America/Bogota] PHP Fatal error:  Call to undefined method modules::LoadInformacionComun() in /home/ingeraco/public_html/Messagesoft/application/controllers/modules.php on line 90
+[01-May-2014 17:44:41 America/Bogota] PHP Fatal error:  Call to undefined method modules::LoadInformacionComun() in /home/ingeraco/public_html/Messagesoft/application/controllers/modules.php on line 90
+[01-May-2014 17:45:45 America/Bogota] PHP Fatal error:  Call to undefined method modules::LoadInformacionComun() in /home/ingeraco/public_html/Messagesoft/application/controllers/modules.php on line 90
+[01-May-2014 17:45:58 America/Bogota] PHP Fatal error:  Call to undefined method modules::LoadInformacionComun() in /home/ingeraco/public_html/Messagesoft/application/controllers/modules.php on line 90
+[01-May-2014 17:47:43 America/Bogota] PHP Fatal error:  Call to a member function close() on a non-object in /home/ingeraco/public_html/Messagesoft/application/controllers/usuarios.php on line 103
+[01-May-2014 18:00:19 America/Bogota] PHP Fatal error:  Class 'grocery_CRUD' not found in /home/ingeraco/public_html/Messagesoft/application/controllers/usuarios.php on line 99
+[01-May-2014 18:00:44 America/Bogota] PHP Fatal error:  Class 'grocery_CRUD' not found in /home/ingeraco/public_html/Messagesoft/application/controllers/usuarios.php on line 99
+[01-May-2014 18:01:06 America/Bogota] PHP Fatal error:  Call to undefined method usuarios::LoadInformacionComunGrocery() in /home/ingeraco/public_html/Messagesoft/application/controllers/usuarios.php on line 116
+[01-May-2014 18:07:33 America/Bogota] PHP Fatal error:  Uncaught exception 'Exception' with message 'You don't have permissions for this operation' in /home/ingeraco/public_html/Messagesoft/application/libraries/Grocery_CRUD.php:4484
+Stack trace:
+#0 /home/ingeraco/public_html/Messagesoft/application/controllers/modules.php(157): Grocery_CRUD->render()
+#1 [internal function]: modules->mi_cuenta('read', '1')
+#2 /home/ingeraco/public_html/Messagesoft/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/ingeraco/public_html/Messagesoft/index.php(202): require_once('/home/ingeraco/...')
+#4 {main}
+  thrown in /home/ingeraco/public_html/Messagesoft/application/libraries/Grocery_CRUD.php on line 4484
+[01-May-2014 18:07:40 America/Bogota] PHP Fatal error:  Uncaught exception 'Exception' with message 'You don't have permissions for this operation' in /home/ingeraco/public_html/Messagesoft/application/libraries/Grocery_CRUD.php:4484
+Stack trace:
+#0 /home/ingeraco/public_html/Messagesoft/application/controllers/modules.php(157): Grocery_CRUD->render()
+#1 [internal function]: modules->mi_cuenta('read', '1')
+#2 /home/ingeraco/public_html/Messagesoft/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#3 /home/ingeraco/public_html/Messagesoft/index.php(202): require_once('/home/ingeraco/...')
+#4 {main}
+  thrown in /home/ingeraco/public_html/Messagesoft/application/libraries/Grocery_CRUD.php on line 4484
+[04-May-2014 16:38:01 America/Bogota] PHP Fatal error:  Uncaught exception 'Exception' with message 'The table name does not exist. Please check you database and try again.' in /home/ingeraco/public_html/Messagesoft/application/libraries/Grocery_CRUD.php:4725
+Stack trace:
+#0 /home/ingeraco/public_html/Messagesoft/application/libraries/Grocery_CRUD.php(4233): Grocery_CRUD->get_table()
+#1 /home/ingeraco/public_html/Messagesoft/application/libraries/Grocery_CRUD.php(4249): Grocery_CRUD->pre_render()
+#2 /home/ingeraco/public_html/Messagesoft/application/controllers/modules.php(139): Grocery_CRUD->render()
+#3 [internal function]: modules->usuarios()
+#4 /home/ingeraco/public_html/Messagesoft/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/ingeraco/public_html/Messagesoft/index.php(202): require_once('/home/ingeraco/...')
+#6 {main}
+  thrown in /home/ingeraco/public_html/Messagesoft/application/libraries/Grocery_CRUD.php on line 4725
+[04-May-2014 16:47:06 America/Bogota] PHP Fatal error:  Cannot access empty property in /home/ingeraco/public_html/Messagesoft/application/libraries/Grocery_CRUD.php on line 1556
+[04-May-2014 16:47:13 America/Bogota] PHP Fatal error:  Cannot access empty property in /home/ingeraco/public_html/Messagesoft/application/libraries/Grocery_CRUD.php on line 1556
+[04-May-2014 16:47:44 America/Bogota] PHP Fatal error:  Cannot access empty property in /home/ingeraco/public_html/Messagesoft/application/libraries/Grocery_CRUD.php on line 1556
+[11-May-2014 22:03:54 America/Bogota] PHP Fatal error:  Call to a member function PrintReporte() on a non-object in /home/ingeraco/public_html/Messagesoft/application/controllers/modules.php on line 355
+[22-Aug-2014 22:13:57 UTC] PHP Fatal error:  Call to a member function field_type() on a non-object in /home/ingeraco/public_html/Messagesoft/application/controllers/modules.php on line 227
+[05-Oct-2014 17:35:43 UTC] PHP Warning:  POST Content-Length of 8706505 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[05-Oct-2014 17:58:39 UTC] PHP Warning:  POST Content-Length of 9109833 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
