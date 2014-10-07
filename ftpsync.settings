@@ -9,8 +9,16 @@
 		"password": "1gD>IMl:",
 		"path": "/public_html/Messagesoft/",
 
+
 		"upload_on_save": true, // set *false* if you do not want to upload on save!
 		"sync_down_on_open": true,
+		"upload_on_save": true, // Guardar y subirlo automaticamente.
+		"save_before_upload": true, //Al archivo tiene que esta guardado antes de subirlo.
+		"sync_down_on_open":true,//Syncronizar el archivo al abrirlo.
+		"confirm_sync": true, //Verificar sincronizar
+
+
+		//"download_on_open": true,
 
 		// "port": 21,
 		// "tls": false,

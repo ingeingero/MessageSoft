@@ -5,7 +5,7 @@
 <form id="FormularioListar" action="<?php echo base_url();?>index.php/modules/CorrespondenciaListar" name="FormularioListar">
 <div class="row-fluid">
   <div class="span4">
-    <h4>Asunto/Codigo    </h4>
+    <h4>Asunto/Codigo Bn bn bn </h4>
     <input placeholder="Asunto" class="span6" type="text"  id="Asunto" name="Asunto" />
     <input placeholder="ID" class="span6" type="text"  id="ID" name="ID" /> 
     <input placeholder="Codigo Barras" class="span6" type="text"  id="CodigoBarras" name="CodigoBarras" />  
